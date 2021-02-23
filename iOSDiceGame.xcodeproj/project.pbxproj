@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		FDB75BEE25E508AE00A71D12 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB75BED25E508AE00A71D12 /* AppDelegate.swift */; };
 		FDB75BF025E508AE00A71D12 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB75BEF25E508AE00A71D12 /* SceneDelegate.swift */; };
-		FDB75BF225E508AE00A71D12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB75BF125E508AE00A71D12 /* ViewController.swift */; };
 		FDB75BF525E508AE00A71D12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDB75BF325E508AE00A71D12 /* Main.storyboard */; };
 		FDB75BF725E508AF00A71D12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDB75BF625E508AF00A71D12 /* Assets.xcassets */; };
 		FDB75BFA25E508AF00A71D12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDB75BF825E508AF00A71D12 /* LaunchScreen.storyboard */; };
+		FDB75C0925E5093E00A71D12 /* dice6.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0325E5093D00A71D12 /* dice6.png */; };
+		FDB75C0A25E5093E00A71D12 /* dice2.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0425E5093D00A71D12 /* dice2.png */; };
+		FDB75C0B25E5093E00A71D12 /* dice1.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0525E5093D00A71D12 /* dice1.png */; };
+		FDB75C0C25E5093E00A71D12 /* dice5.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0625E5093D00A71D12 /* dice5.png */; };
+		FDB75C0D25E5093E00A71D12 /* dice4.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0725E5093D00A71D12 /* dice4.png */; };
+		FDB75C0E25E5093E00A71D12 /* dice3.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C0825E5093D00A71D12 /* dice3.png */; };
+		FDB75C1225E50B1D00A71D12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB75C1125E50B1D00A71D12 /* ViewController.swift */; };
+		FDB75C1525E513AE00A71D12 /* dice0.png in Resources */ = {isa = PBXBuildFile; fileRef = FDB75C1425E513AE00A71D12 /* dice0.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		FDB75BEA25E508AE00A71D12 /* iOSDiceGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSDiceGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDB75BED25E508AE00A71D12 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDB75BEF25E508AE00A71D12 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FDB75BF125E508AE00A71D12 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FDB75BF425E508AE00A71D12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FDB75BF625E508AF00A71D12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDB75BF925E508AF00A71D12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDB75BFB25E508AF00A71D12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDB75C0325E5093D00A71D12 /* dice6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice6.png; path = "../../../Dice-Game/img/dice6.png"; sourceTree = "<group>"; };
+		FDB75C0425E5093D00A71D12 /* dice2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice2.png; path = "../../../Dice-Game/img/dice2.png"; sourceTree = "<group>"; };
+		FDB75C0525E5093D00A71D12 /* dice1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice1.png; path = "../../../Dice-Game/img/dice1.png"; sourceTree = "<group>"; };
+		FDB75C0625E5093D00A71D12 /* dice5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice5.png; path = "../../../Dice-Game/img/dice5.png"; sourceTree = "<group>"; };
+		FDB75C0725E5093D00A71D12 /* dice4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice4.png; path = "../../../Dice-Game/img/dice4.png"; sourceTree = "<group>"; };
+		FDB75C0825E5093D00A71D12 /* dice3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice3.png; path = "../../../Dice-Game/img/dice3.png"; sourceTree = "<group>"; };
+		FDB75C1125E50B1D00A71D12 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FDB75C1425E513AE00A71D12 /* dice0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dice0.png; path = "../../../Dice-Game/img/dice0.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +72,16 @@
 			children = (
 				FDB75BED25E508AE00A71D12 /* AppDelegate.swift */,
 				FDB75BEF25E508AE00A71D12 /* SceneDelegate.swift */,
-				FDB75BF125E508AE00A71D12 /* ViewController.swift */,
+				FDB75C1125E50B1D00A71D12 /* ViewController.swift */,
 				FDB75BF325E508AE00A71D12 /* Main.storyboard */,
 				FDB75BF625E508AF00A71D12 /* Assets.xcassets */,
+				FDB75C1425E513AE00A71D12 /* dice0.png */,
+				FDB75C0525E5093D00A71D12 /* dice1.png */,
+				FDB75C0425E5093D00A71D12 /* dice2.png */,
+				FDB75C0825E5093D00A71D12 /* dice3.png */,
+				FDB75C0725E5093D00A71D12 /* dice4.png */,
+				FDB75C0625E5093D00A71D12 /* dice5.png */,
+				FDB75C0325E5093D00A71D12 /* dice6.png */,
 				FDB75BF825E508AF00A71D12 /* LaunchScreen.storyboard */,
 				FDB75BFB25E508AF00A71D12 /* Info.plist */,
 			);
@@ -125,8 +146,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDB75BFA25E508AF00A71D12 /* LaunchScreen.storyboard in Resources */,
+				FDB75C1525E513AE00A71D12 /* dice0.png in Resources */,
 				FDB75BF725E508AF00A71D12 /* Assets.xcassets in Resources */,
+				FDB75C0A25E5093E00A71D12 /* dice2.png in Resources */,
+				FDB75C0C25E5093E00A71D12 /* dice5.png in Resources */,
 				FDB75BF525E508AE00A71D12 /* Main.storyboard in Resources */,
+				FDB75C0D25E5093E00A71D12 /* dice4.png in Resources */,
+				FDB75C0B25E5093E00A71D12 /* dice1.png in Resources */,
+				FDB75C0E25E5093E00A71D12 /* dice3.png in Resources */,
+				FDB75C0925E5093E00A71D12 /* dice6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDB75BF225E508AE00A71D12 /* ViewController.swift in Sources */,
+				FDB75C1225E50B1D00A71D12 /* ViewController.swift in Sources */,
 				FDB75BEE25E508AE00A71D12 /* AppDelegate.swift in Sources */,
 				FDB75BF025E508AE00A71D12 /* SceneDelegate.swift in Sources */,
 			);
@@ -296,7 +324,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.davenport.iOSDiceGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,7 +343,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.davenport.iOSDiceGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
